@@ -1,0 +1,34 @@
+Below is the family tree and all the family members are related to each other and belong to a single family
+
+kanika
+- She is Wife of Dheeraj Lalit.
+- She is mother of Nitara Lalit.
+
+Dheeraj Lalit
+- He is Husband of Kanika.
+- He is Father of Nitara Lalit.
+- His Father's name is Ramesh Kumar Lalit
+- His Mother's name is Asha Lalit
+
+Nitara Lalit
+- She is daughter of Kanika and Dheeraj Lalit.
+- Her father's name is Dheeraj Lalit.
+- Her mother's name is Kanika.
+
+Rakhi Manchanda
+- She is Dheeraj Lalit's sister
+- Her hunband name is Manav Manchanda
+- She has two children
+- Her Son name is Tanav Manchanda
+- Her daughter Name is Jeeval Manchanda
+
+Reema lalit
+- She is also Dheeraj Lalit's sister
+- Her husband name is Nitin Sharma
+- She has two children, both daughter (Alabhya Sharma and Bhawni Sharma)
+
+Ramesh Kumar Lalit
+- He has three Children.
+- He has one son whose name is Dheeraj Lalit
+- He has two daughters (Rakhi Manchanda and Reema Lalit)
+- His Wife name is Asha Lalit

@@ -1,0 +1,43 @@
+{
+  "head_of_family": {
+    "name": "Ramesh Kumar Lalit",
+    "sex": "Male",
+    "spouse": "Asha Lalit",
+    "Children": {
+      "son": [
+        {
+        "name":"Dheeraj Lalit",
+        "sex": "male",
+        "spouse": "kanika",
+          "children": {
+            "daughter": [
+              {"name": "Nitara Lalit",
+              "sex": "female"}]}
+        }
+      ],
+    "daughter": [{
+      "name": "Reema Lalit",
+      "sex": "female",
+      "spouse": "Nitin Sharma",
+      "children": {"daughter": [{
+        "name": "Alabhya Sharma",
+        "sex": "female"
+      },{
+        "name": "Bhawni Sharma",
+        "sex": "Female"
+      }]}
+    },{
+      "name": "Rakhi Manchanda",
+      "sex": "Female",
+      "spouse": "Manav Manchanda",
+      "children": {"daughter": [{
+        "name": "Jewal Manchanda",
+        "sex": "Female"
+      }],
+      "son": [{
+        "name": "Tanav Manchanda",
+        "sex": "Male"
+      }]}
+    }]}
+  }
+}
